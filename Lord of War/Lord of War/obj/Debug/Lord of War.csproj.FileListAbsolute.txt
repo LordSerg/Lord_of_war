@@ -1,0 +1,45 @@
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\bin\Debug\Lord of War.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\bin\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\bin\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\obj\Debug\Lord of War.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\obj\Debug\Lord_of_War.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\obj\Debug\Lord_of_War.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\obj\Debug\Lord of War.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\obj\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\obj\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\bin\Debug\Lord of War.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\bin\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\bin\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord of War.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord_of_War.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord_of_War.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord of War.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\!Lord of War\Lord of War\obj\Debug\Lord_of_War.Form2.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\bin\Debug\Lord of War.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\bin\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\bin\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord of War.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord_of_War.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord_of_War.Form2.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord_of_War.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War 1\!Lord of War\Lord of War\obj\Debug\Lord of War.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\Lord of War.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\Lord of War.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\Lord of War.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord of War.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord_of_War.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord_of_War.Form2.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord_of_War.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\obj\Debug\Lord of War.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\OpenTK.GLControl.dll
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\OpenTK.dll
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Lord of War\Lord of War\bin\Debug\OpenTK.Compatibility.dll

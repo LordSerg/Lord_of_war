@@ -1,0 +1,14 @@
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\bin\Debug\Maps wizard.exe.config
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\bin\Debug\Maps wizard.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\bin\Debug\Maps wizard.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\bin\Debug\OpenTK.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\bin\Debug\OpenTK.xml
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\bin\Debug\OpenTK.GLControl.xml
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps wizard.csprojResolveAssemblyReference.cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps_wizard.Form1.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps_wizard.Properties.Resources.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps wizard.csproj.GenerateResource.Cache
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps wizard.exe
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps wizard.pdb
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps_wizard.Form2.resources
+C:\Users\moskalenko_s\Desktop\My games\Lord of War\Maps\Maps wizard\Maps wizard\obj\Debug\Maps_wizard.Form3.resources
